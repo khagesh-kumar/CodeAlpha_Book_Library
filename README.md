@@ -1,4 +1,4 @@
-📚 Library Management System
+**📚Library Management System**
 A simple Library Management System built using HTML, CSS, and JavaScript. This project allows users to add, search, and manage books efficiently with an intuitive UI.
 
 📸 Screenshots
@@ -7,7 +7,7 @@ A simple Library Management System built using HTML, CSS, and JavaScript. This p
 ![Screenshot (336)](https://github.com/user-attachments/assets/ff8a0cad-bb3f-4aae-92f6-d89e7805adaf)
 
 
-🚀 Features
+**🚀 Features**
 📖 Add New Books with Title, Author, and Category
 🔍 Search & Filter books by title, author, or category
 📚 Borrow & Return Books with status tracking
